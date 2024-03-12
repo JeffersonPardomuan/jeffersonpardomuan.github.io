@@ -50,6 +50,34 @@ sections:
 #      username: admin
 #    design:
 #      columns: '1'
+
+- block: portfolio
+    id: projects
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Shape-changing Interface
+          tag: Shape-changing Interface
+        - name: Soft robots
+          tag: Soft robots
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
   - block: experience
     content:
       title: Experience
@@ -96,33 +124,6 @@ sections:
           description: Designed and implemented a digital production recording system to minimize input errors and enhance operational efficiency
     design:
       columns: '2'
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Shape-changing Interface
-          tag: Shape-changing Interface
-        - name: Soft robots
-          tag: Soft robots
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
   - block: markdown
     content:
       title: Gallery
@@ -156,21 +157,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
@@ -195,16 +181,16 @@ sections:
       #  - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.9142°'
+        latitude: '37.9142'
         longitude: '145.1347'  
       contact_links:
         - icon: linkedin
           icon_pack: fab
-          name: DM Me
+          name: Linked-in
           link: 'https://www.linkedin.com/in/jefferson-pardomuan/'
-        - icon: video
+        - icon: youtube
           icon_pack: fas
-          name: Zoom Me
+          name: Youtube link
           link: 'https://www.youtube.com/channel/UCKTw1rkLnCo3lwQ-sniRM6g'
       # Automatically link email and phone or display as text?
       autolink: true
