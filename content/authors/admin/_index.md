@@ -30,7 +30,7 @@ bio: My research interests include wearable interface, smart structures and robo
 # Interests to show in About widget
 interests:
   - Shape-changing Interface
-  - Tangible Interface
+  - Tangible User Interface
   - Soft robotics
   - Variable-stiffness
 
