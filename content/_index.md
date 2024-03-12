@@ -70,8 +70,8 @@ sections:
           tag: '*'
         - name: Shape-changing Interface
           tag: Shape-changing Interface
-        - name: Soft robots
-          tag: Soft robots
+        - name: Soft robotics
+          tag: Soft robotics
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
