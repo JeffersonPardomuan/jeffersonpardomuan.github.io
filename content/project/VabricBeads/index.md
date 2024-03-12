@@ -7,12 +7,15 @@ tags:
   - shape
 date: "2023-09-27T00:00:00Z"
 
+{{< youtube JOhZH17oAjc >}}
+
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://youtu.be/JOhZH17oAjc?si=Wk4Wkndz3rN2l-qN'
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+
 
 links:
   - icon: youtube
