@@ -7,12 +7,6 @@ tags:
   - shape
 date: "2023-09-27T00:00:00Z"
 
-{{< spoiler text="Click to view the spoiler" >}}
-You found me!
-{{< /spoiler >}}
-
-
-
 #{{< youtube JOhZH17oAjc >}}
 
 # Optional external URL for project (replaces project detail page).
@@ -31,7 +25,7 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://youtu.be/JOhZH17oAjc?si=Wk4Wkndz3rN2l-qN'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
