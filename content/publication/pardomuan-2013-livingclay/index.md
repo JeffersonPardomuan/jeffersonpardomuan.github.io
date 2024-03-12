@@ -1,0 +1,13 @@
+---
+title: 'LivingClay: particle actuation to control display volume and stiffness'
+authors:
+- Jefferson Pardomuan
+- Toshiki Sato
+- Hideki Koike
+date: '2013-01-01'
+publishDate: '2024-03-12T03:56:22.373106Z'
+publication_types:
+- paper-conference
+publication: '*Adjunct Proceedings of the 26th Annual ACM Symposium on User Interface
+  Software and Technology*'
+---
