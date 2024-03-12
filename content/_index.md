@@ -51,6 +51,9 @@ sections:
 #    design:
 #      columns: '1'
 
+
+
+
 - block: portfolio
     id: projects
     content:
@@ -68,9 +71,9 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Shape-changing Interface
+        - name: "Shape-changing Interface"
           tag: shape
-        - name: Soft robotics
+        - name: "Soft robotics"
           tag: robotics
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
