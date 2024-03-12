@@ -5,6 +5,8 @@ tags:
   - robotics
 date: "2021-06-27T00:00:00Z"
 
+{{< youtube JOhZH17oAjc >}}
+
 # Optional external URL for project (replaces project detail page).
 external_link: https://youtu.be/qZAhoiRJixY?si=9CaKufLLBOSbcSN
 
