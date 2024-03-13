@@ -1,5 +1,5 @@
 ---
-title: "ClaytricSurface: An Interactive Deformable Display with Dynamic Stiffness Control"
+title: "ClaytricSurface: An Interactive Deformable Display with Dynamic Stiffness Control, IEEE CG&A '14"
 summary: "ClaytricSurface is a shape-changeable display with dynamic stiffness control. The prototype uses vacuum pressure control on an enclosed volume of particles. Users can mold 3D shapes and apply textures to them while experiencing tactile feedback through dynamically changing stiffness. The system's developers have added both touch input using a depth camera and peripheral devices to expand the system's practical application. They also developed applications in the form of design tools that have great entertainment potential."
 tags:
   - shape
