@@ -21,8 +21,8 @@ role: Researcher| Human-Computer Interaction
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Tokyo Institute of Technology
-    url: https://www.titech.ac.jp/english
+  - name: Melbourne, Australia
+    url: https://exertiongameslab.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include wearable interface, smart structures and robotics.
